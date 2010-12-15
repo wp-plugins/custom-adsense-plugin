@@ -1,4 +1,5 @@
 === Custom Adsense Plugin ===
+Author: Umakant Patil
 Contributors: Ravi Penna
 Tags: Ad-sense
 Requires at least: 2.9
@@ -28,9 +29,15 @@ Activate the plugin through the 'Plugins' menu in WordPress
 = 1.0 =
 * First version
 
+= 1.1 =
+* Minor edits
+
 == Upgrade Notice ==
 
 = 1.0 =
+Functional code availabe
+
+= 1.1 =
 Functional code availabe
 
 == Screenshots ==

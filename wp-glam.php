@@ -1,25 +1,15 @@
 <?php
-
 /*
-
-Plugin Name: WP Glam - Expert Post
-Plugin URI: http://www.glammedia.com
+Plugin Name: Custom Adsense Plugin
+Plugin URI: http://www.google.com
 Description: Plugin creates inactive post and then activates it on the page load of wordpress (any page).
-Version: 0.1
-Author: Glam India
-Author URI: http://www.glamindia.com
-
+Version: 1.1
+Author: Umakant Patil
+Contributers: Ravi Penna
+Author URI: http://www.google.com
 */
 
-
-
-
-/**
-	URL for calling Ad Creative which consists of Expert Post
- */
-
-
-
+$thisisatest = null;
 
 function gm_injectjs() {
 	//global $adurl;
