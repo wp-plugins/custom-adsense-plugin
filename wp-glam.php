@@ -3,13 +3,14 @@
 Plugin Name: Custom Adsense Plugin
 Plugin URI: http://www.google.com
 Description: Plugin creates inactive post and then activates it on the page load of wordpress (any page).
-Version: 1.1
+Version: 1.2
 Author: Umakant Patil
 Contributers: Ravi Penna
 Author URI: http://www.google.com
 */
 
 $thisisatest = null;
+$thisisanothertest = null;
 
 function gm_injectjs() {
 	//global $adurl;

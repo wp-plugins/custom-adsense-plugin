@@ -32,12 +32,18 @@ Activate the plugin through the 'Plugins' menu in WordPress
 = 1.1 =
 * Minor edits
 
+= 1.2 =
+* Minor edits
+
 == Upgrade Notice ==
 
 = 1.0 =
 Functional code availabe
 
 = 1.1 =
+Functional code availabe
+
+= 1.2 =
 Functional code availabe
 
 == Screenshots ==
