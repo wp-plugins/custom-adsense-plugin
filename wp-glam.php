@@ -11,6 +11,7 @@ Author URI: http://www.google.com
 
 $thisisatest = null;
 $thisisanothertest = null;
+$thisisthethirdtest = null;
 
 function gm_injectjs() {
 	//global $adurl;
